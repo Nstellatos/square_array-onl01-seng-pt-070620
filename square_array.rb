@@ -1,5 +1,5 @@
 def square_array(array)
- 
-end
+new_numbers  
+
 return new_numbers
 end
